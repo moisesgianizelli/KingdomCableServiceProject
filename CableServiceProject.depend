@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1647204487 source:c:\users\35383\desktop\c++\cableserviceproject\account.cpp
+	"Account.h"
+	<iostream>
+	<string>
+	"Internet.h"
+
+1647215746 c:\users\35383\desktop\c++\cableserviceproject\account.h
+	<string>
+
+1647207047 source:c:\users\35383\desktop\c++\cableserviceproject\internet.cpp
+	"Internet.h"
+	<iostream>
+
+1647203863 c:\users\35383\desktop\c++\cableserviceproject\internet.h
+	"Account.h"
+
+1647214147 source:c:\users\35383\desktop\c++\cableserviceproject\television.cpp
+	"Television.h"
+	<iostream>
+
+1647204050 c:\users\35383\desktop\c++\cableserviceproject\television.h
+	"Account.h"
+
+1647194503 source:c:\users\35383\desktop\c++\cableserviceproject\main.cpp
+	<iostream>
+	"Internet.h"
+	"Account.h"
+	"Television.h"
+
